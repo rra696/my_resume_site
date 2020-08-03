@@ -74,11 +74,15 @@ h3 {
 article .post-media img{
 	width: 100%;
 	height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
 }
 
 article .post-content {
     background-color: #eeeeee;
     padding: 50px 50px 40px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 
 article .title {
